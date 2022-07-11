@@ -4,7 +4,7 @@
 
 This is an SPFx webpart built to facilitate the booking/reserving of offices at TSBG branches for users who primarily work from home.
 
-![alt text](https://git.tsbg.com/sharepoint/OfficeCheckout/blob/master/src/assets/OfficeCheckout-Home-and-19-more.gif?raw=true)
+![alt text]([https://git.tsbg.com/sharepoint/OfficeCheckout/blob/master/src/assets/OfficeCheckout-Home-and-19-more.gif](https://github.com/jduysen/OfficeCheckout/blob/main/OfficeCheckout-Home-and-19-more%20(1).gif)?raw=true)
 
 ## Used SharePoint Framework Version
 
